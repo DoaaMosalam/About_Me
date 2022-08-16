@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NameStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:paddingTop">@dimen/paddingTop_name</item>
+        <item name="android:layout_marginTop">@dimen/marginTop_name</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>

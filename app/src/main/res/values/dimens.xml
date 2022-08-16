@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingTop_name">8dp</dimen>
+    <dimen name="marginTop_name">16dp</dimen>
+    <dimen name="paddingstart_Linear">16dp</dimen>
+    <dimen name="paddingEnd_Linear">16dp</dimen>
+</resources>
